@@ -1,8 +1,15 @@
-# Meu Repositorio de Autenticacões - DIO
-Repositório de teste de autenticações.
+# Meu Repositório de Autenticações - DIO
 
-1-Autenticação via nome de Usuário e senha;
+Repositório de testes de autenticações.
 
-2-Autenticação Via Token de acesso pessoal;
+1. Autenticação via nome de usuário e senha;
+2. Autenticação via Token de acesso pessoal;
+3. Autenticação via Chave SSH;
+4. Autenticação de Dois Fatores (2FA) via Microsoft Authenticator.
 
-3-Autenticação via Chave SSH;
+---
+
+## 🔒 Segurança da Conta
+![GitHub 2FA](https://img.shields.io/badge/2FA-Enabled-success?style=for-the-badge&logo=github)
+
+> **Nota:** A ativação do 2FA garante a integridade dos meus dados.
