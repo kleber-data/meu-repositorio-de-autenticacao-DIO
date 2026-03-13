@@ -10,6 +10,7 @@ Repositório de testes de autenticações.
 ---
 
 ## 🔒 Segurança da Conta
-![GitHub 2FA](https://img.shields.io/badge/2FA-Enabled-success?style=for-the-badge&logo=github)
+[![GitHub 2FA](https://img.shields.io/badge/2FA-Enabled-success?style=for-the-badge&logo=github)](https://github.com/settings/security)
+[![Microsoft Authenticator](https://img.shields.io/badge/Microsoft%20Authenticator-Protected-blue?style=for-the-badge&logo=microsoft)](https://www.microsoft.com/pt-br/security/mobile-authenticator-app)
 
 > **Nota:** A ativação do 2FA garante a integridade dos meus dados.
