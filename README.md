@@ -8,7 +8,7 @@ Repositório de testes de autenticações.
 4. Autenticação de Dois Fatores (2FA) via Microsoft Authenticator.
 5. Diário de Aprendizado
 
-### Configuração de Ambiente (14/03/2026)
+### Configuração de Ambiente 
 Hoje finalizei a estruturação do meu ambiente de documentação técnica:
 - [x] **Obsidian:** Configuração de cofre (Vault) no Ubuntu para centralizar notas de GitHub e Linux.
 - [x] **Gestão de Anexos:** Automatização da pasta de imagens para manter o repositório limpo.
